@@ -1,0 +1,13 @@
+{
+  "actorSpecification": 1,
+  "name": "actor-template-sdk",
+  "version": "main",
+  "avatarUrl": "your-avatar-url",
+  "defaultRunOptions": {
+    "timeout": 300,
+    "memory": 1024,
+    "cpu": 0.25,
+    "survivalTime": 600,
+    "serverMode": 1
+  }
+}

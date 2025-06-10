@@ -1,0 +1,22 @@
+{
+  "title": "Scrape data from a web page",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "email": {
+      "title": "Email",
+      "type": "string",
+      "description": "The email of the account.",
+      "editor": "textfield",
+      "prefill": "email@example.com"
+    },
+    "password": {
+      "title": "Password",
+      "type": "string",
+      "description": "The password of the account.",
+      "editor": "textfield",
+      "prefill": "password"
+    }
+  },
+  "required": ["email", "password"]
+}
