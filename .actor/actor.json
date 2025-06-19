@@ -2,7 +2,7 @@
   "actorSpecification": 1,
   "name": "actor-template-sdk",
   "version": "main",
-  "avatarUrl": "your-avatar-url",
+  "avatarURL": "your-avatar-url",
   "defaultRunOptions": {
     "timeout": 300,
     "memory": 1024,

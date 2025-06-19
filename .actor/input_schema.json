@@ -6,16 +6,12 @@
     "email": {
       "title": "Email",
       "type": "string",
-      "description": "The email of the account.",
-      "editor": "textfield",
-      "prefill": "email@example.com"
+      "description": "The email of the account."
     },
     "password": {
       "title": "Password",
       "type": "string",
-      "description": "The password of the account.",
-      "editor": "textfield",
-      "prefill": "password"
+      "description": "The password of the account."
     }
   },
   "required": ["email", "password"]
